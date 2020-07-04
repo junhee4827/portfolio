@@ -1,2 +1,2 @@
-# portfolio
-이준희 포트폴리오
+# 이준희 portfolio
+
